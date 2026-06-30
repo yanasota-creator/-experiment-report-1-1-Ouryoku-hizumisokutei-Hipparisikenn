@@ -325,7 +325,3 @@ $$
 [4] 共和電業．「リード線の温度影響の補償法（3線式結線法）」．https://product.kyowa-ei.com/learn/strain-gages/3_wire_system　参照日:2026/6/29
 
 [5] キーエンス．「ひずみゲージ ブリッジ回路の組み方」．https://www.keyence.co.jp/ss/products/recorder/lab/strain/straingage.jsp　参照日:2026/6/29
-
----
-*実験実施日: 令和8年 月 日*
-*提出日: 令和8年 月 日*
