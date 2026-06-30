@@ -10,15 +10,15 @@
 ## ルール
 
 - STYLE_GUIDE.md
-  https://raw.githubusercontent.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/refs/heads/main/STYLE_GUIDE.md
+  https://raw.githubusercontent.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/main/STYLE_GUIDE.md
 
 ## データ（data/）
 
 - experiment_data_Hizumi..csv（はりのたわみ試験データ）
-  https://raw.githubusercontent.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/refs/heads/main/data/Hari_Tawamishiken.csv
+  https://raw.githubusercontent.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/main/data/Hari_Tawamishiken.csv
 
 - Hizumisokutei.csv（引張試験データ）
-  https://github.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/raw/refs/heads/main/data/Hipparishiken.csv
+  https://github.com/yanasota-creator/-experiment-report-1-1-Ouryoku-hizumisokutei-Hipparisikenn/main/data/Hipparishiken.csv
 
 ## 画像（images/）
 
